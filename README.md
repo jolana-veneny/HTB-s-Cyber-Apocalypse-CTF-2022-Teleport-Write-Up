@@ -17,7 +17,7 @@ That looks very promising. It could of course be unrelated but when we look at t
 
 ![51_Functions](https://user-images.githubusercontent.com/101567957/170102676-08defe32-4e0a-437e-9684-bd2068da9abd.png)
 
-At this point, it is obvious that these functions carry the flag split into individual symbols. The esieast way to put them together (at least for me) is to copy all of these symbols into an excel sheet like this:
+At this point, it is obvious that these functions carry the flag split into individual symbols. The easiest way to put them together (at least for me) is to copy all of these symbols into an excel sheet like this:
 
 ![7_symbols](https://user-images.githubusercontent.com/101567957/170103077-bbbed312-f59f-48a8-a17d-4b065007efbe.png)
 ![8_symbols](https://user-images.githubusercontent.com/101567957/170103087-91fe17f8-cb0d-48e8-b7ef-c4894af95987.png)
